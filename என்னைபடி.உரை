@@ -18,9 +18,6 @@ Extra plugins (see https://qmmp.ylsoftware.com/plugins.php):
 Third-party plugins:
   - qmmp-adplug - AdPlug-based AdLib input plugin for Qmmp (Web page: https://github.com/cspiegel/qmmp-adplug)
 
-This archive also contains third-party libraries. Source code of these libraries
-is freely available on the Internet.
-
 List of the third-party libraries.
 
   Name                Version    Web page
@@ -57,13 +54,4 @@ List of the third-party libraries.
   adplug              2.3.3      https://github.com/adplug/adplug
   libbinio            1.5        https://github.com/adplug/libbinio
 
-List of the third-party artwork.
 
-  Name                Web page
-
-  Oxygen icons        https://community.kde.org/Frameworks
-  Bunjee skin         https://www.gnome-look.org/p/1008373
-  Vortigo skin        https://www.gnome-look.org/p/1008374/
-  Azenis skin         https://packages.altlinux.org/ru/Sisyphus/srpms/qmmp-skins-azenis
-
-Patches and build scripts: https://sourceforge.net/p/qmmp-dev/code/HEAD/tree/trunk/extras/package/win32/
